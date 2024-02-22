@@ -83,7 +83,7 @@
             bindings = <&mo 1>, <&mo 3>, <&to 8>;
         		  };
 
-        td1: window_switch_/_lalt_1 {
+        td1: window_switch_lalt_1 {
             compatible = "zmk,behavior-tap-dance";
             #binding-cells = <0>;
             tapping-term-ms = <200>;
